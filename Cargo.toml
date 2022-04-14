@@ -1,5 +1,5 @@
 [package]
-name = "content_types"
+name = "content-types"
 version = "1.0.1"
 authors = ["valkyrie_pilot <valk@randomairborne.dev>"]
 edition = "2021"
