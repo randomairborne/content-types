@@ -1,11 +1,11 @@
 [package]
-name = "content-types"
-version = "1.0.0"
+name = "content_types"
+version = "1.0.1"
 authors = ["valkyrie_pilot <valk@randomairborne.dev>"]
 edition = "2021"
 description = "Content types, for web server programming"
 repository = "https://github.com/randomairborne/content-types"
 license-file = "LICENSE.txt"
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+readme = "README.md"
+keywords = ["content-types", "webserver"]
+categories = ["web-programming", "web-programming::http-server"]
