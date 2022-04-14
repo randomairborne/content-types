@@ -1,0 +1,3 @@
+Copyright (c) 2022 valkyrie_pilot <valk@randomairborne.dev>
+
+Permisson is hereby granted, free of charge, to download, distribute, and use the contents of this package, without attribution, for any reason.
